@@ -1,0 +1,1 @@
+Example Node.js Packaged Module from Chapter 3 of Brad Dayley's Node.js, MongoDB, and AngularJS Wed Development book.
